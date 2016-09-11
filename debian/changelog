@@ -1,3 +1,9 @@
+libqbit-webinterface-controller-rbac-perl (0.004) raring; urgency=low
+
+  * upload to cpan
+
+ -- Igor Sverdlov <igor-sverdlov@mail.ru>  Sun, 11 Sep 2016 15:40:09 +0300
+
 libqbit-webinterface-controller-rbac-perl (0.003) raring; urgency=low
 
   * Fix registred misprint.
