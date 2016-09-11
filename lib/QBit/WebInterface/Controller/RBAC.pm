@@ -123,3 +123,33 @@ sub role_rights : FORMCMD {
 }
 
 TRUE;
+
+__END__
+
+=encoding utf8
+
+=head1 Name
+
+QBit::WebInterface::Controller::RBAC - RBAC manager for QBit application.
+
+=head1 GitHub
+
+https://github.com/QBitFramework/QBit-WebInterface-Controller-RBAC
+
+=head1 Install
+
+=over
+
+=item *
+
+cpanm QBit::WebInterface::Controller::RBAC
+
+=item *
+
+apt-get install libqbit-webinterface-controller-rbac-perl (http://perlhub.ru/)
+
+=back
+
+For more information. please, see code.
+
+=cut
